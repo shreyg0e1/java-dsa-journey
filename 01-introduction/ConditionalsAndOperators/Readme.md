@@ -1,6 +1,4 @@
-Haan 😄 **sirf Lecture 2** ka complete content. Isko apne `README.md` ke **Lecture 1 ke neeche** paste kar dena:
-
-````markdown
+````
 # Lecture 2 — Conditional & Operators
 
 ## Conditional Statements
